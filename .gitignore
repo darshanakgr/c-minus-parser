@@ -1,5 +1,6 @@
 #dist
 c_minus.exe
+c_minus.output
 c_minus.tab.c
 c_minus.tab.h
 c_minus.tab.o
