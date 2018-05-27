@@ -1,0 +1,7 @@
+#dist
+c_minus.exe
+c_minus.tab.c
+c_minus.tab.h
+c_minus.tab.o
+lex.yy.c
+lex.yy.o
